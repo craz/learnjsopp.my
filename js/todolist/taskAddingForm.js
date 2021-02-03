@@ -41,7 +41,7 @@ export default class TaskAddingForm{
         }
     }
     /**
-     * 
+     * Show form on page
      * @param {Element} container 
      */
     showForm(container){        
